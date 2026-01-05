@@ -23,6 +23,7 @@ mobile_no="24435332"
 Address="India"
 
 echo "Name : $name"
+echo "Date is : $(date)"
 echo "Age : $age"
 echo "Mobile-Number : $mobile_no"
 echo "Address : $Address"
